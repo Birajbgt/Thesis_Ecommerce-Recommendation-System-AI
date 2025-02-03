@@ -1,0 +1,15 @@
+joblib==1.4.2
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+numpy==2.0.2
+pandas==2.2.3
+prompt_toolkit==3.0.50
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.1
+seaborn==0.13.2
+setuptools==75.8.0
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+Flask
+keras==3.8.0
